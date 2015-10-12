@@ -24,13 +24,6 @@ class DebugingDemo
     }
 }
 
-
-
-
-
-
-
-
 // Эмуляция компонента, выбрасывающего исключение
 
 class ExampleComponent
